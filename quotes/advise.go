@@ -1,4 +1,4 @@
-package quotes
+package github.com/andrew-scoppa/go-modules
 
 import (
 	"fmt"
