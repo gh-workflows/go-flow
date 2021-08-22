@@ -1,3 +1,3 @@
-module github.com/andrew-scoppa/go-modules/v2
+module github.com/andrew-scoppa/go-modules
 
 go 1.16
