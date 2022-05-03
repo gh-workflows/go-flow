@@ -1,7 +1,7 @@
 package wordgame
 
 
-// IsPalindrome checks strings 
+// IsPalindrome checks strings for matches
 func IsPalindrome(word string) bool{
 
 	for i := range word{
