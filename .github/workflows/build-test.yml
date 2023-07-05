@@ -5,12 +5,12 @@ on:
     branches: 
       - $default-branch
     paths:
-      - './wordgame'
+      - 'wordgame/'
   pull_request:
     branches: 
       - $default-branch
     paths:
-      - '/wordgame'
+      - 'wordgame/'
   workflow_dispatch:
 
 jobs:
