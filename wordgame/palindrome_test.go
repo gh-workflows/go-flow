@@ -5,7 +5,7 @@ import (
 )
 
 func TestPalindome(t *testing.T) {
-	var words = []string{"kayak", "abba", "121", "bob"}
+	var words = []string{"kayak", "abba", "121", "noon"}
 	for _, word := range words {
 		if !IsPalindrome(word) {
 			t.Errorf("'%s' was incorrectly not identifed as palindrome", word)
